@@ -1,6 +1,3 @@
-### Hi there 👋
-
----
 ![Calum Lindsay's GitHub stats](https://github-readme-stats.vercel.app/api?username=cogilv25&theme=radical)
 
 <!--
