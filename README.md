@@ -12,6 +12,8 @@ I am currently in the process of completing my 4th year Bsc Computing, my disser
 I am interested in Games Development, Low-Level & Embedded Development and obscure / creative concepts (like L-Systems!).
 
 I am always intrerested in opportunities whether very specific to my interests or otherwise! If you have a cool project you think I might be interested in or you just think I am a cool guy feel free to hit me up!
+
+Mischief Managed
 <!--
 I'm leaving this here for now in case I need inspiration.... don't judge me!
 **cogilv25/cogilv25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
